@@ -174,7 +174,7 @@ This provided additional evidence supporting potential malicious activity on the
 
 ### 01 PowerShell Search Start
 
-![01 PowerShell Search Start](01%20PowerShell%20Search.png)
+![01 PowerShell Search Start](01%20PowerShell%20Search%20Start.png)
 
 ---
 
